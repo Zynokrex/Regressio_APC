@@ -32,14 +32,22 @@ X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
 Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
 month - month of the year: 'jan' to 'dec'
 day - day of the week: 'mon' to 'sun'
+
 FFMC - FFMC index from the FWI system: 18.7 to 96.20
-FFMC:
+FFMC: represents fuel moisture of forest litter fuels under the shade of a
+      forest canopy
+
 DMC - DMC index from the FWI system: 1.1 to 291.3
-DMC:
+DMC: represents fuel moisture of decomposed organic material underneath
+     the litter
+
 DC - DC index from the FWI system: 7.9 to 860.6
-DC:
+DC: represents drying deep into the soil
+
 ISI - ISI index from the FWI system: 0.0 to 56.10
-ISI:
+ISI: It integrates fuel moisture for fine dead fuels and surface windspeed
+     to estimate a spread potential
+
 temp - temperature in Celsius degrees: 2.2 to 33.30
 RH - relative humidity in %: 15.0 to 100
 wind - wind speed in km/h: 0.40 to 9.40
